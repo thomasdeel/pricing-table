@@ -1,0 +1,4 @@
+<script async src="https://js.stripe.com/v3/pricing-table.js"></script>
+<stripe-pricing-table pricing-table-id="prctbl_1MtJRvGR5KR5NtVLZ21vFA4B"
+publishable-key="pk_live_TuFwJ4kd8EDAZkFiiayxcgA7">
+</stripe-pricing-table>
